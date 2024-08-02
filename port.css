@@ -52,6 +52,10 @@ nav ul li a:hover{
     color: black;
     margin-bottom: 20px;
 }
+.sai p{
+    font-size: 20px;
+    font-weight: 500;
+}
 span{
     color:rgb(84, 2, 84)
 }
